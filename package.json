@@ -1,0 +1,11 @@
+{
+  "name": "playwright-cli-talk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.4.0"
+  },
+  "scripts": {}
+}
